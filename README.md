@@ -6,8 +6,12 @@ This repository serves as a learning hub for building interactive web applicatio
 
 This Shiny app is a basic example with a navbar and input fields to capture first and last names, showcasing how to render the concatenated full name as an output.
 
+- [Check out the code here!](myfirstshinyapp.R)
+
 ## App: 02
 
 This Shiny app, allows users to visualize the distribution of ozone levels using a histogram. Users can adjust the number of bins in the histogram using a slider input, providing a dynamic view of the ozone level distribution.
+
+- [Check out the code here!](simplehistogram.R)
 
 ## App: 03
